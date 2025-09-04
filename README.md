@@ -18,4 +18,4 @@ The course introduces Python skills tailored for finance, including:
   - `seaborn` for heatmaps and statistical visualizations
   - `plotly` for interactive charts
 - **Programming Concepts**: Functions, loops, handling missing values
-- **Practical Finance Applications**: Analyzing JPMorgan Chase & Co. and Amazon stock data
+- **Practical Finance Applications**: Analyzing popular US stocks
